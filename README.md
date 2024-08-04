@@ -9,6 +9,8 @@ dataset<br/>
 ├── openRightEyes<br/>
 ├── closedRightEyes<br/>
 
+Execute `Cnn_based_detection/Eye\ Preprocessing.ipynb`.
+
 ## Eye-Aspect Ratio based Sleep Detector
 Drowsy Detector
 ```
