@@ -1,6 +1,15 @@
 # Driver-Sleep-Detection
 This repository contains the code for [Driver Sleep Detector: A new and accurate approach](https://ieeexplore.ieee.org/abstract/document/9696942).
 
+## Dataset Preparation
+The directory structure should look like
+main-folder/
+├── dataset/
+│   ├── openLeftEyes/
+│   └── closedLeftEyes/
+│   ├── openRightEyes/
+│   └── closedRightEyes/
+
 ## Eye-Aspect Ratio based Sleep Detector
 Drowsy Detector
 ```
