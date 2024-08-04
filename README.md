@@ -3,11 +3,13 @@ This repository contains the code for [Driver Sleep Detector: A new and accurate
 
 ## Dataset Preparation
 The directory structure should look like,<br/>
+```
 dataset<br/>
 ├── openLeftEyes<br/>
 ├── closedLeftEyes<br/>
 ├── openRightEyes<br/>
 ├── closedRightEyes<br/>
+```
 
 Execute `Cnn_based_detection/Eye\ Preprocessing.ipynb`.
 
