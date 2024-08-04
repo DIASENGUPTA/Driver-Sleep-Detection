@@ -21,3 +21,11 @@ Detect drowsiness
 python Cnn_based_detection/drowsy_predict.py
 ```
 
+If you are using this code, please cite
+@INPROCEEDINGS{9696942,
+  author={Sengupta, Kathakoli and Srivastava, Ayushi and Shreyansh, Satyam and Aggarwal, Siddhi and Kumar, Vaegae Naveen},<br/>
+  booktitle={2021 Innovations in Power and Advanced Computing Technologies (i-PACT)}, <br/>
+  title={Driver Sleep Detection:A New and Accurate Approach}, <br/>
+  year={2021},<br/>
+  doi={10.1109/i-PACT52855.2021.9696942}}
+
